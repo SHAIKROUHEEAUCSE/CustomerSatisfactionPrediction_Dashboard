@@ -82,4 +82,4 @@ Focus on proactive communication in critical cases
 Use insights to predict at-risk customers and take corrective action# CustomerSatisfactionPrediction_Dashboard
 
 6.ScreenShots / Demo
-Example:
+Example: https://github.com/SHAIKROUHEEAUCSE/CustomerSatisfactionPrediction_Dashboard/blob/main/Snapshot1.png
