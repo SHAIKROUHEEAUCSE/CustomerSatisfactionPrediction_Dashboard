@@ -81,7 +81,10 @@ Focus on proactive communication in critical cases
 
 Use insights to predict at-risk customers and take corrective action# CustomerSatisfactionPrediction_Dashboard
 
-6.ScreenShots / Demo
+6.Conclusion
+The Customer Satisfaction Prediction Dashboard goes beyond descriptive analytics to highlight factors that predict satisfaction outcomes. By using these insights, organizations can improve service quality, reduce churn, and increase customer loyalty.
+
+7.ScreenShots / Demo
 Example: https://github.com/SHAIKROUHEEAUCSE/CustomerSatisfactionPrediction_Dashboard/blob/main/Snapshot1.png
 https://github.com/SHAIKROUHEEAUCSE/CustomerSatisfactionPrediction_Dashboard/blob/main/Snapshot2.png
 https://github.com/SHAIKROUHEEAUCSE/CustomerSatisfactionPrediction_Dashboard/blob/main/Snapshot3.png
