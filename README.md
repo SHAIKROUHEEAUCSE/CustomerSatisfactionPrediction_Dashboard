@@ -83,3 +83,4 @@ Use insights to predict at-risk customers and take corrective action# CustomerSa
 
 6.ScreenShots / Demo
 Example: https://github.com/SHAIKROUHEEAUCSE/CustomerSatisfactionPrediction_Dashboard/blob/main/Snapshot1.png
+https://github.com/SHAIKROUHEEAUCSE/CustomerSatisfactionPrediction_Dashboard/blob/main/Snapshot2.png
